@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\bin\Debug\KTRACSHARPHIT.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\bin\Debug\KTRACSHARPHIT.exe
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\bin\Debug\KTRACSHARPHIT.pdb
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\obj\Debug\KTRACSHARPHIT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\obj\Debug\KTRACSHARPHIT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\obj\Debug\KTRACSHARPHIT.exe
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\obj\Debug\KTRACSHARPHIT.pdb
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\KTRACSHARPHIT\KTRACSHARPHIT\obj\Debug\KTRACSHARPHIT.exe.config

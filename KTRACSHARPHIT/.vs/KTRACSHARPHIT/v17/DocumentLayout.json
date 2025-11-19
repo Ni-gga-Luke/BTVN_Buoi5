@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\ktracsharphit\\ktracsharphit\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739077F7-1D6C-463C-8D84-16351893C826}|KTRACSHARPHIT\\KTRACSHARPHIT.csproj|solutionrelative:ktracsharphit\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Enemy.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Enemy.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:59:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Player.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Player.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Player.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:50:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\GameEntity.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\GameEntity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\GameEntity.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\GameEntity.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:44:09.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Program.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Program.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:15:23.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Mage.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Mage.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Mage.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:33:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Warrior.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Warrior.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Warrior.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:33:09.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Character.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Character.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Character.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Character.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:16:03.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Wizard.cs",
+              "RelativeDocumentMoniker": "KTRACSHARPHIT\\Wizard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\KTRACSHARPHIT\\KTRACSHARPHIT\\Wizard.cs",
+              "RelativeToolTip": "KTRACSHARPHIT\\Wizard.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:15:46.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
