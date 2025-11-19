@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\obj\Debug\uiagamebtvn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\obj\Debug\uiagamebtvn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\bin\Debug\uiagamebtvn.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\bin\Debug\uiagamebtvn.exe
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\bin\Debug\uiagamebtvn.pdb
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\obj\Debug\uiagamebtvn.exe
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\obj\Debug\uiagamebtvn.pdb
+C:\Users\ADMIN\OneDrive\Desktop\LinhTinh\uiagamebtvn\uiagamebtvn\obj\Debug\uiagamebtvn.exe.config

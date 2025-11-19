@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|c:\\users\\admin\\onedrive\\desktop\\linhtinh\\uiagamebtvn\\uiagamebtvn\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CF5F08-820F-45D8-9228-7B1DC727AAEA}|uiagamebtvn\\uiagamebtvn.csproj|solutionrelative:uiagamebtvn\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\GameManager.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\GameManager.cs",
+              "RelativeToolTip": "uiagamebtvn\\GameManager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwHEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:42:43.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\GridManager.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\GridManager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\GridManager.cs",
+              "RelativeToolTip": "uiagamebtvn\\GridManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:42:21.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Tile.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\Tile.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Tile.cs",
+              "RelativeToolTip": "uiagamebtvn\\Tile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:41:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Weapon.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Weapon.cs",
+              "RelativeToolTip": "uiagamebtvn\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:41:35.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Enemy.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Enemy.cs",
+              "RelativeToolTip": "uiagamebtvn\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:41:12.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Player.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\Player.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Player.cs",
+              "RelativeToolTip": "uiagamebtvn\\Player.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAhwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:40:32.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Character.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\Character.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Character.cs",
+              "RelativeToolTip": "uiagamebtvn\\Character.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:37:53.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Program.cs",
+              "RelativeDocumentMoniker": "uiagamebtvn\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\LinhTinh\\uiagamebtvn\\uiagamebtvn\\Program.cs",
+              "RelativeToolTip": "uiagamebtvn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:36:53.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
